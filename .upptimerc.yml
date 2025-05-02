@@ -25,7 +25,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "xIoTz Uptime Monitoring."
-  introMessage: xIoTz Websites Uptime monitoring  navbar:
+  introMessage: xIoTz Websites Uptime monitoring  
+  navbar:
     - title: Status
       href: /
     - title: GitHub
