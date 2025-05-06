@@ -232,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 349,
+      "2025-05-06": 355,
       "2025-05-05": 1440,
       "2025-05-04": 78
     }
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 349,
+      "2025-05-06": 355,
       "2025-05-05": 1440,
       "2025-05-04": 77
     }
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 349,
+      "2025-05-06": 355,
       "2025-05-05": 1440,
       "2025-05-04": 77
     }
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 349,
+      "2025-05-06": 355,
       "2025-05-05": 1440,
       "2025-05-04": 76
     }
@@ -560,19 +560,19 @@
     "url": "https://tdac.xiotz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tdac.xiotz.com.ico",
     "slug": "ucap-tdac",
-    "status": "down",
-    "uptime": "82.63%",
-    "uptimeDay": "86.08%",
-    "uptimeWeek": "82.63%",
-    "uptimeMonth": "82.63%",
-    "uptimeYear": "82.63%",
-    "time": 9753,
-    "timeDay": 10553,
-    "timeWeek": 9753,
-    "timeMonth": 9753,
-    "timeYear": 9753,
+    "status": "up",
+    "uptime": "82.53%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "82.53%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "82.53%",
+    "time": 9055,
+    "timeDay": 8719,
+    "timeWeek": 9055,
+    "timeMonth": 9055,
+    "timeYear": 9055,
     "dailyMinutesDown": {
-      "2025-05-06": 0,
+      "2025-05-06": 6,
       "2025-05-05": 200,
       "2025-05-03": 448,
       "2025-05-02": 197
