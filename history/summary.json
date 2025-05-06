@@ -232,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 77,
+      "2025-05-06": 349,
       "2025-05-05": 1440,
       "2025-05-04": 78
     }
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 77,
+      "2025-05-06": 349,
       "2025-05-05": 1440,
       "2025-05-04": 77
     }
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 77,
+      "2025-05-06": 349,
       "2025-05-05": 1440,
       "2025-05-04": 77
     }
@@ -449,18 +449,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/global.onextel.com.ico",
     "slug": "35-one-xtel",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 77,
+      "2025-05-06": 349,
       "2025-05-05": 1440,
       "2025-05-04": 76
     }
@@ -560,18 +560,19 @@
     "url": "https://tdac.xiotz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tdac.xiotz.com.ico",
     "slug": "ucap-tdac",
-    "status": "up",
-    "uptime": "81.60%",
-    "uptimeDay": "86.09%",
-    "uptimeWeek": "81.60%",
-    "uptimeMonth": "81.60%",
-    "uptimeYear": "81.60%",
-    "time": 8769,
-    "timeDay": 7540,
-    "timeWeek": 8769,
-    "timeMonth": 8769,
-    "timeYear": 8769,
+    "status": "down",
+    "uptime": "82.63%",
+    "uptimeDay": "86.08%",
+    "uptimeWeek": "82.63%",
+    "uptimeMonth": "82.63%",
+    "uptimeYear": "82.63%",
+    "time": 9753,
+    "timeDay": 10553,
+    "timeWeek": 9753,
+    "timeMonth": 9753,
+    "timeYear": 9753,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2025-05-05": 200,
       "2025-05-03": 448,
       "2025-05-02": 197
