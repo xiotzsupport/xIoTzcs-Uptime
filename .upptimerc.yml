@@ -4,6 +4,8 @@ repo: xIoTzcs-Uptime # The name of this repository
 
 sites:
 
+##Dovetail
+
   - name: 10_Dovetail
     url: https://www.dovetailindia.com/
   
@@ -34,6 +36,7 @@ sites:
   - name: 19_Dovetail
     url: https://api.uat.nav.dovetailindia.com/
 
+##OneXtel
   - name: 21_OneXtel
     url:  https://vaptvoice.onextel.com
   
@@ -78,29 +81,157 @@ sites:
   
   - name: 35_OneXtel
     url: https://global.onextel.com/
-  
 
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-  - name: "UcapTDAC"
-    url: https://tdac.xiotz.com/
+
+  ## Cornell
+  - name: 41_Cornell
+    url:  https://www.cornells.com.au/
+
+  - name: 42_Cornell
+    url:  https://webdisk.cornells.com.au/
+
+  - name: 43_Cornell
+    url:  https://cpanel.cornells.com.au/
+
+  - name: 44_Cornell
+    url:  https://webmail.cornells.com.au/
+
+
+## Jesons
+  - name: 91_Jesons
+    url: https://autodiscover.jesons.net
+
+  - name: 92_Jesons
+    url: https://autodiscover.jesons.net
+
+  - name: 93_Jesons
+    url: https://www.jesons.net
+
+  - name: 94_Jesons
+    url: https://uat.jesons.net
+
+  - name: 95_Jesons
+    url: https://enterpriseenrollment.jesons.net
+
+
+## JLMorison
+
+  - name: 121_JLMorison
+    url:  https://www.jlmorison.com
+
+##Unishield360
+  - name: 141_Unishield360
+    url:  https://www.unishield360.com
+
+  - name: 142_Unishield360
+    url:  https://www.urbanplan.unishield360.com
+
+##Medseven
+  - name: 71_Medseven
+    url: https://www.med7healthcare.com
+
+  - name: 72_Medseven
+    url: https://new.med7healthcare.com
+
+  - name: 73_Medseven
+    url: https://enterpriseenrollment.med7healthcare.com
+
+  - name: 74_Medseven
+    url: https://autodiscover.med7healthcare.com
+
+
+##AlphaSeven
+  - name: 151_AlphaSeven
+    url: https://www.cicon.net
+
+  - name: 152_AlphaSeven
+    url: https://vpn.cicon.net
+
+  - name: 153_AlphaSeven
+    url: https://smtp.cicon.net
+
+  - name: 154_AlphaSeven
+    url: https://e.cicon.net
+
+  - name: 155_AlphaSeven
+    url: https://imap.cicon.net
+
+  - name: 156_AlphaSeven
+    url: https://mail.cicon.net
+
+
+## AlOmeria
+  - name: 171_ALOmeria
+    url: https://www.omeirapp.ae
+
+
+## Cicon
+  - name: 181_Cicon
+    url: https://www.cicon.net
+
+  - name: 182_Cicon
+    url: https://vpn.cicon.net
+
+  - name: 183_Cicon
+    url: https://smtp.cicon.net
+
+  - name: 184_Cicon
+    url: https://e.cicon.net
+
+  - name: 185_Cicon
+    url: https://imap.cicon.net
+
+  - name: 185_Cicon
+    url: https://mail.cicon.net
+    
+##Bell
+  - name: 191_Bell
+    url: https://bell-energy.com
+
+##Gemini
+  - name: 201_Gemini
+    url: https://www.gti-me.com
+
+  - name: 202_Gemini
+    url: https://mail.gti-me.com
+
+  - name: 203_Gemini
+    url: https://cpanel.gti-me.com
+
+  - name: 204_Gemini
+    url: https://server.gti-me.com
+
+  - name: 205_Gemini
+    url: https://webdisk.gti-me.com
+
+  - name: 206_Gemini
+    url: https://webmail.gti-me.com
+
+  - name: 207_Gemini
+    url: https://xtrabakup.gti-me.com
+
+  - name: 208_Gemini
+    url: https://cpcontacts.gti-me.com
+
+
+
+
+
+
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: Status-CX.xiotz.com
   #baseUrl: /xIoTzcs-Uptime
+
+  logoUrl: https://raw.githubusercontent.com/xiotzsupport/xIoTz-Uptime/refs/heads/master/upptime-icon.svg
+  name: xIoTz Customer Monitor
+  introTitle: "xIoTz Uptime Monitoring - Customer."
+  introMessage: xIoTz Websites Uptime - for Customers monitoring
+  
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "xIoTz Uptime Monitoring."
