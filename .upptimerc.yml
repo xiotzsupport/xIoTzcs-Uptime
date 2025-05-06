@@ -232,10 +232,7 @@ status-website:
   introTitle: "xIoTz Uptime Monitoring - Customer."
   introMessage: xIoTz Websites Uptime - for Customers monitoring
   
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "xIoTz Uptime Monitoring."
-  introMessage: xIoTz Websites Uptime monitoring  
+
   navbar:
     - title: Status
       href: /
