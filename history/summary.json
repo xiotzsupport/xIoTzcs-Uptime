@@ -202,19 +202,19 @@
     "url": "https://signature.onextel.com",
     "icon": "https://icons.duckduckgo.com/ip3/signature.onextel.com.ico",
     "slug": "22-one-xtel",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 276,
-    "timeDay": 183,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.39%",
+    "time": 267,
+    "timeDay": 208,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-05-07": 6
+      "2025-05-07": 22
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 78
@@ -293,7 +293,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 77
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 77
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 76
@@ -506,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -548,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -569,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -590,7 +590,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -611,7 +611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 54
     }
   },
@@ -632,7 +632,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -653,7 +653,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -749,7 +749,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -770,7 +770,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -791,7 +791,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 53
     }
   },
@@ -819,18 +819,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.cicon.net.ico",
     "slug": "152-alpha-seven",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 52
     }
   },
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 52
     }
   },
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 52
     }
   },
@@ -893,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 51
     }
   },
@@ -914,7 +914,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 51
     }
   },
@@ -935,7 +935,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 51
     }
   },
@@ -963,18 +963,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.cicon.net.ico",
     "slug": "182-cicon",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 50
     }
   },
@@ -995,7 +995,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 50
     }
   },
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 50
     }
   },
@@ -1037,7 +1037,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 49
     }
   },
@@ -1058,7 +1058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 49
     }
   },
@@ -1151,7 +1151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 49
     }
   },
@@ -1172,7 +1172,7 @@
     "timeMonth": 527,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 49
     }
   },
@@ -1211,7 +1211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 48
     }
   },
@@ -1232,7 +1232,7 @@
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-05-07": 696,
+      "2025-05-07": 718,
       "2025-05-06": 48
     }
   }
