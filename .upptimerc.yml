@@ -17,17 +17,20 @@ sites:
 
   - name: 13_Dovetail
     url: https://demo-clientonboarding.dovetailindia.com
-  
-  - name: 14_Dovetail
-    url: https://eprotector.dovetailindia.com
 
-  - name: 15_Dovetail
-    url: https://nav.dovetailindia.com/
+
+# Vignesh to Revist - DR downtime 
+#  - name: 14_Dovetail
+#    url: https://eprotector.dovetailindia.com
+
+# Vignesh to Revist - IP Whitelist
+#  - name: 15_Dovetail
+#    url: https://nav.dovetailindia.com/
 
   - name: 16_Dovetail
     url: http://navdev.dovetailindia.com
 
-  - name: 17_Dovetail
+  - name: 17_Dovetail (https://oms.dovetailindia.com/)
     url: https://oms.dovetailindia.com/
 
   - name: 18_Dovetail
