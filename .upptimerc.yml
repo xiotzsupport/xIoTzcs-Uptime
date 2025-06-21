@@ -20,8 +20,8 @@ sites:
 
 
 # Vignesh to Revist - DR downtime 
-#  - name: 14_Dovetail
-#    url: https://eprotector.dovetailindia.com
+  - name: 14_Dovetail
+    url: https://eprotector.dovetailindia.com
 
 # Vignesh to Revist - IP Whitelist
 #  - name: 15_Dovetail
@@ -35,9 +35,10 @@ sites:
 
   - name: 18_Dovetail
     url: https://oms-api.dovetailindia.com
-  
-  - name: 19_Dovetail
-    url: https://api.uat.nav.dovetailindia.com/
+    
+# Vignesh's Update - Dont enable API is private now 
+#  - name: 19_Dovetail
+#    url: https://api.uat.nav.dovetailindia.com/
 
 ##OneXtel
   - name: 21_OneXtel
