@@ -27,8 +27,8 @@ sites:
   - name: 15_Dovetail
     url: https://nav.dovetailindia.com/
 
-  - name: 16_Dovetail
-    url: http://navdev.dovetailindia.com
+#  - name: 16_Dovetail
+#    url: http://navdev.dovetailindia.com
 
   - name: 17_Dovetail (https://oms.dovetailindia.com/)
     url: https://oms.dovetailindia.com/
@@ -74,48 +74,48 @@ sites:
   - name: 31_OneXtel
     url: https://chat.onextel.com
   
-  - name: 32_OneXtel
-    url: https://crm.onextel.com/
+#  - name: 32_OneXtel
+#    url: https://crm.onextel.com/
   
   - name: 33_OneXtel
     url: https://docs.onextel.com/
   
-  - name: 34_OneXtel
-    url: https://email.onextel.com/
+#  - name: 34_OneXtel
+#    url: https://email.onextel.com/
   
-  - name: 35_OneXtel
-    url: https://global.onextel.com/
+#  - name: 35_OneXtel
+#    url: https://global.onextel.com/
 
 
-  ## Cornell
-  - name: 41_Cornell
-    url:  https://www.cornells.com.au/
+#  ## Cornell
+#  - name: 41_Cornell
+#    url:  https://www.cornells.com.au/
 
-  - name: 42_Cornell
-    url:  https://webdisk.cornells.com.au/
+#  - name: 42_Cornell
+#    url:  https://webdisk.cornells.com.au/
 
-  - name: 43_Cornell
-    url:  https://cpanel.cornells.com.au/
+#  - name: 43_Cornell
+#    url:  https://cpanel.cornells.com.au/
 
-  - name: 44_Cornell
-    url:  https://webmail.cornells.com.au/
+#  - name: 44_Cornell
+#    url:  https://webmail.cornells.com.au/
 
 
 ## Jesons
-  - name: 91_Jesons
-    url: https://autodiscover.jesons.net
+#  - name: 91_Jesons
+#    url: https://autodiscover.jesons.net
 
-  - name: 92_Jesons
-    url: https://autodiscover.jesons.net
+#  - name: 92_Jesons
+#    url: https://autodiscover.jesons.net
 
-  - name: 93_Jesons
-    url: https://www.jesons.net
+# - name: 93_Jesons
+#    url: https://jesons.net
 
-  - name: 94_Jesons
-    url: https://uat.jesons.net
+# - name: 94_Jesons
+#    url: https://uat.jesons.net
 
-  - name: 95_Jesons
-    url: https://enterpriseenrollment.jesons.net
+#  - name: 95_Jesons
+#    url: https://enterpriseenrollment.jesons.net
 
 
 ## JLMorison
