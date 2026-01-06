@@ -6,166 +6,127 @@ sites:
 
 ##Dovetail
 
-  - name: 10_Dovetail
+  - name: 10_Dovetail-Domain
     url: https://www.dovetailindia.com/
   
-  - name: 11_Dovetail
+  - name: 11_Dovetail-ClientOnBorarding
     url: https://clientonboarding.dovetailindia.com
 
-  - name: 12_Dovetail
+  - name: 12_Dovetail-DCMS
     url: https://dcms.dovetailindia.com
 
-  - name: 13_Dovetail
+  - name: 13_Dovetail-DemoClientOnboarding
     url: https://demo-clientonboarding.dovetailindia.com
 
 
 # Vignesh to Revist - DR downtime 
-  - name: 14_Dovetail
+  - name: 14_Dovetail-Eprotector
     url: https://eprotector.dovetailindia.com
 
  #Vignesh to Revist - IP Whitelist
-  - name: 15_Dovetail
+  - name: 15_Dovetail-NAV
     url: https://nav.dovetailindia.com/
 
-#  - name: 16_Dovetail
+#  - name: 16_Dovetail-NAVDEV
 #    url: http://navdev.dovetailindia.com
 
-  - name: 17_Dovetail (https://oms.dovetailindia.com/)
+  - name: 17_Dovetail-OMS
     url: https://oms.dovetailindia.com/
 
-  - name: 18_Dovetail
+  - name: 18_Dovetail-OMSAPI
     url: https://oms-api.dovetailindia.com
     
 # Vignesh's Update - Dont enable API is private now 
-#  - name: 19_Dovetail
+#  - name: 19_Dovetail-API-UAT
 #    url: https://api.uat.nav.dovetailindia.com/
 
 ##OneXtel
-  - name: 21_OneXtel
+  - name: 21_OneXtel-VAPTVOICE
     url:  https://vaptvoice.onextel.com
   
-  - name: 22_OneXtel
+  - name: 22_OneXtel-Signature
     url: https://signature.onextel.com
   
-  - name: 23_OneXtel
+  - name: 23_OneXtel-Service
     url: https://service.onextel.com/
   
-  - name: 24_OneXtel
+  - name: 24_OneXtel-APPCpass
     url: https://app.cpaas.onextel.com
   
-  - name: 25_OneXtel
+  - name: 25_OneXtel-Assist
     url: https://assist.onextel.com
   
-  - name: 26_OneXtel
+  - name: 26_OneXtel-ATS
     url: https://ats.onextel.com
   
-  - name: 27_OneXtel
+  - name: 27_OneXtel-Blog
     url: https://blog.onextel.com/
   
-  - name: 28_OneXtel
+  - name: 28_OneXtel-Books
     url:  https://books.onextel.com
   
-  - name: 29_OneXtel
+  - name: 29_OneXtel-Careers
     url: https://careers.onextel.com
   
-  - name: 30_OneXtel
+  - name: 30_OneXtel-Celebrate
     url: https://celebrate.onextel.com/
   
-  - name: 31_OneXtel
+  - name: 31_OneXtel-Chat
     url: https://chat.onextel.com
   
 #  - name: 32_OneXtel
 #    url: https://crm.onextel.com/
   
-  - name: 33_OneXtel
+  - name: 33_OneXtel-Docs
     url: https://docs.onextel.com/
   
-#  - name: 34_OneXtel
+#  - name: 34_OneXtel-EMail
 #    url: https://email.onextel.com/
   
-#  - name: 35_OneXtel
+#  - name: 35_OneXtel-GLobal
 #    url: https://global.onextel.com/
 
 
-#  ## Cornell
-#  - name: 41_Cornell
-#    url:  https://www.cornells.com.au/
-
-#  - name: 42_Cornell
-#    url:  https://webdisk.cornells.com.au/
-
-#  - name: 43_Cornell
-#    url:  https://cpanel.cornells.com.au/
-
-#  - name: 44_Cornell
-#    url:  https://webmail.cornells.com.au/
 
 
-## Jesons
-#  - name: 91_Jesons
-#    url: https://autodiscover.jesons.net
-
-#  - name: 92_Jesons
-#    url: https://autodiscover.jesons.net
-
-# - name: 93_Jesons
-#    url: https://jesons.net
-
-# - name: 94_Jesons
-#    url: https://uat.jesons.net
-
-#  - name: 95_Jesons
-#    url: https://enterpriseenrollment.jesons.net
-
-
-## JLMorison
+## JLMorison-Domain
 
   - name: 121_JLMorison
     url:  https://www.jlmorison.com
 
 ##Unishield360
-  - name: 141_Unishield360
+  - name: 141_Unishield360-Domain
     url:  https://www.unishield360.com
 
-  - name: 142_Unishield360
+  - name: 142_Unishield360-UrbanPlan
     url:  https://www.urbanplan.unishield360.com
 
 ##Medseven
   - name: 71_Medseven
     url: https://www.med7healthcare.com
 
-  - name: 72_Medseven
-    url: https://new.med7healthcare.com
-
-  - name: 73_Medseven
-    url: https://enterpriseenrollment.med7healthcare.com
-
-  - name: 74_Medseven
-    url: https://autodiscover.med7healthcare.com
-
-
 ##AlphaSeven
-  - name: 151_AlphaSeven
+  - name: 151_CICON-Domain
     url: https://www.cicon.net
 
-  - name: 152_AlphaSeven
+  - name: 152_CICON-VPN
     url: https://vpn.cicon.net
 
-  - name: 153_AlphaSeven
+  - name: 153_CICON-SMTP
     url: https://smtp.cicon.net
 
-  - name: 154_AlphaSeven
+  - name: 154_CICON-E
     url: https://e.cicon.net
 
-  - name: 155_AlphaSeven
+  - name: 155_CICON-IMAP
     url: https://imap.cicon.net
 
-  - name: 156_AlphaSeven
+  - name: 156_CICON-Mail
     url: https://mail.cicon.net
 
 
 ## AlOmeria
-  - name: 171_ALOmeria
+  - name: 171_ALOmeria-Domain
     url: https://www.omeirapp.ae
 
 
