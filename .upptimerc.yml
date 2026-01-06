@@ -105,7 +105,7 @@ sites:
   - name: 71_Medseven
     url: https://www.med7healthcare.com
 
-##AlphaSeven
+##CICON
   - name: 151_CICON-Domain
     url: https://www.cicon.net
 
@@ -130,53 +130,6 @@ sites:
     url: https://www.omeirapp.ae
 
 
-## Cicon
-  - name: 181_Cicon
-    url: https://www.cicon.net
-
-  - name: 182_Cicon
-    url: https://vpn.cicon.net
-
-  - name: 183_Cicon
-    url: https://smtp.cicon.net
-
-  - name: 184_Cicon
-    url: https://e.cicon.net
-
-  - name: 185_Cicon
-    url: https://imap.cicon.net
-
-  - name: 185_Cicon
-    url: https://mail.cicon.net
-    
-##Bell
-  - name: 191_Bell
-    url: https://bell-energy.com
-
-##Gemini
-  - name: 201_Gemini
-    url: https://www.gti-me.com
-
-  - name: 202_Gemini
-    url: https://mail.gti-me.com
-
-  - name: 203_Gemini
-    url: https://cpanel.gti-me.com
-
-  - name: 204_Gemini
-    url: https://server.gti-me.com
-
-  - name: 205_Gemini
-    url: https://webdisk.gti-me.com
-
-  - name: 206_Gemini
-    url: https://webmail.gti-me.com
-
-  - name: 207_Gemini
-    url: https://xtrabakup.gti-me.com
-
-  - name: 208_Gemini
-    url: https://cpcontacts.gti-me.com
 
 
 
