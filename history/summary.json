@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1378,
-    "timeDay": 1378,
+    "timeDay": 1405,
     "timeWeek": 1378,
     "timeMonth": 1378,
     "timeYear": 1378,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 854,
+    "timeDay": 884,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
-    "timeDay": 729,
+    "timeDay": 730,
     "timeWeek": 729,
     "timeMonth": 729,
     "timeYear": 729,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 837,
+    "timeDay": 874,
     "timeWeek": 837,
     "timeMonth": 837,
     "timeYear": 837,
@@ -83,7 +83,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 725,
-    "timeDay": 725,
+    "timeDay": 733,
     "timeWeek": 725,
     "timeMonth": 725,
     "timeYear": 725,
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 344
     }
   },
@@ -122,7 +122,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 620,
+    "timeDay": 623,
     "timeWeek": 620,
     "timeMonth": 620,
     "timeYear": 620,
@@ -140,7 +140,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 825,
+    "timeDay": 812,
     "timeWeek": 825,
     "timeMonth": 825,
     "timeYear": 825,
@@ -158,7 +158,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1224,
-    "timeDay": 1224,
+    "timeDay": 1232,
     "timeWeek": 1224,
     "timeMonth": 1224,
     "timeYear": 1224,
@@ -176,7 +176,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 129,
+    "timeDay": 107,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 344
     }
   },
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 344
     }
   },
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 344
     }
   },
@@ -262,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 343
     }
   },
@@ -278,12 +278,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 670,
-    "timeDay": 670,
+    "timeDay": 692,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 343
     }
   },
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 343
     }
   },
@@ -313,19 +313,19 @@
     "url": "https://careers.onextel.com",
     "icon": "https://icons.duckduckgo.com/ip3/careers.onextel.com.ico",
     "slug": "29-one-xtel-careers",
-    "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
     "time": 1281,
-    "timeDay": 1281,
+    "timeDay": 1380,
     "timeWeek": 1281,
     "timeMonth": 1281,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2026-01-07": 56
+      "2026-01-07": 59
     }
   },
   {
@@ -340,7 +340,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 189,
+    "timeDay": 90,
     "timeWeek": 189,
     "timeMonth": 189,
     "timeYear": 189,
@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 343
     }
   },
@@ -372,19 +372,19 @@
     "url": "https://docs.onextel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.onextel.com.ico",
     "slug": "33-one-xtel-docs",
-    "status": "up",
-    "uptime": "96.11%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "96.11%",
+    "status": "down",
+    "uptime": "96.66%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 2005,
-    "timeDay": 2005,
+    "timeDay": 2111,
     "timeWeek": 2005,
     "timeMonth": 2005,
     "timeYear": 2005,
     "dailyMinutesDown": {
-      "2026-01-07": 55
+      "2026-01-07": 57
     }
   },
   {
@@ -393,11 +393,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jlmorison.com.ico",
     "slug": "121-jl-morison",
     "status": "down",
-    "uptime": "1.97%",
+    "uptime": "2.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.20%",
-    "uptimeMonth": "14.02%",
-    "uptimeYear": "1.97%",
+    "uptimeWeek": "72.24%",
+    "uptimeMonth": "14.72%",
+    "uptimeYear": "2.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -653,19 +653,19 @@
     "url": "https://www.unishield360.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.unishield360.com.ico",
     "slug": "141-unishield360-domain",
-    "status": "up",
-    "uptime": "95.24%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "95.24%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
     "time": 3835,
-    "timeDay": 3835,
+    "timeDay": 4182,
     "timeWeek": 3835,
     "timeMonth": 3835,
     "timeYear": 3835,
     "dailyMinutesDown": {
-      "2026-01-07": 67
+      "2026-01-07": 57
     }
   },
   {
@@ -685,7 +685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 343
     }
   },
@@ -701,7 +701,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1143,
-    "timeDay": 888,
+    "timeDay": 906,
     "timeWeek": 1089,
     "timeMonth": 1165,
     "timeYear": 1143,
@@ -721,7 +721,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1423,
-    "timeDay": 1423,
+    "timeDay": 1682,
     "timeWeek": 1423,
     "timeMonth": 1423,
     "timeYear": 1423,
@@ -744,7 +744,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 342
     }
   },
@@ -765,7 +765,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 342
     }
   },
@@ -786,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 342
     }
   },
@@ -807,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 341
     }
   },
@@ -818,7 +818,7 @@
     "slug": "156-cicon-mail",
     "status": "down",
     "uptime": "0.01%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
@@ -828,7 +828,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1079,
+      "2026-01-07": 1385,
       "2026-01-06": 341
     }
   },
@@ -844,7 +844,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1350,
-    "timeDay": 1350,
+    "timeDay": 1315,
     "timeWeek": 1350,
     "timeMonth": 1350,
     "timeYear": 1350,
