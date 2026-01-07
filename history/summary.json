@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 344
     }
   },
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 344
     }
   },
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 344
     }
   },
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 344
     }
   },
@@ -262,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 343
     }
   },
@@ -283,7 +283,7 @@
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 343
     }
   },
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 343
     }
   },
@@ -313,18 +313,20 @@
     "url": "https://careers.onextel.com",
     "icon": "https://icons.duckduckgo.com/ip3/careers.onextel.com.ico",
     "slug": "29-one-xtel-careers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1113,
     "timeDay": 1113,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 3
+    }
   },
   {
     "name": "30_OneXtel-Celebrate",
@@ -361,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 343
     }
   },
@@ -370,18 +372,20 @@
     "url": "https://docs.onextel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.onextel.com.ico",
     "slug": "33-one-xtel-docs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 1706,
     "timeDay": 1706,
     "timeWeek": 1706,
     "timeMonth": 1706,
     "timeYear": 1706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 2
+    }
   },
   {
     "name": "121_JLMorison",
@@ -389,11 +393,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jlmorison.com.ico",
     "slug": "121-jl-morison",
     "status": "down",
-    "uptime": "1.69%",
+    "uptime": "1.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.34%",
-    "uptimeMonth": "11.75%",
-    "uptimeYear": "1.69%",
+    "uptimeWeek": "63.49%",
+    "uptimeMonth": "12.70%",
+    "uptimeYear": "1.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -649,18 +653,20 @@
     "url": "https://www.unishield360.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.unishield360.com.ico",
     "slug": "141-unishield360-domain",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 3395,
     "timeDay": 3395,
     "timeWeek": 3395,
     "timeMonth": 3395,
     "timeYear": 3395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 2
+    }
   },
   {
     "name": "142_Unishield360-UrbanPlan",
@@ -679,7 +685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 343
     }
   },
@@ -738,7 +744,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 342
     }
   },
@@ -759,7 +765,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 342
     }
   },
@@ -780,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 342
     }
   },
@@ -801,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 341
     }
   },
@@ -811,18 +817,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.cicon.net.ico",
     "slug": "156-cicon-mail",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 85,
+      "2026-01-07": 503,
       "2026-01-06": 341
     }
   },
