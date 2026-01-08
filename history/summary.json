@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 344
     }
   },
@@ -199,7 +200,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 344
     }
   },
@@ -220,7 +222,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 344
     }
   },
@@ -241,7 +244,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 344
     }
   },
@@ -262,7 +266,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 343
     }
   },
@@ -283,7 +288,8 @@
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 343
     }
   },
@@ -304,7 +310,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 343
     }
   },
@@ -314,18 +321,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/careers.onextel.com.ico",
     "slug": "29-one-xtel-careers",
     "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "96.09%",
+    "uptime": "97.01%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 1302,
     "timeDay": 1490,
     "timeWeek": 1302,
     "timeMonth": 1302,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2026-01-07": 68
+      "2026-01-07": 56
     }
   },
   {
@@ -363,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 343
     }
   },
@@ -373,18 +381,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.onextel.com.ico",
     "slug": "33-one-xtel-docs",
     "status": "up",
-    "uptime": "96.14%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "96.14%",
-    "uptimeYear": "96.14%",
+    "uptime": "97.04%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
     "time": 2087,
     "timeDay": 2469,
     "timeWeek": 2087,
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2026-01-07": 67
+      "2026-01-07": 55
     }
   },
   {
@@ -393,11 +401,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jlmorison.com.ico",
     "slug": "121-jl-morison",
     "status": "down",
-    "uptime": "2.06%",
+    "uptime": "2.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.36%",
-    "uptimeMonth": "14.74%",
-    "uptimeYear": "2.06%",
+    "uptimeWeek": "73.63%",
+    "uptimeMonth": "15.04%",
+    "uptimeYear": "2.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -654,18 +662,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unishield360.com.ico",
     "slug": "141-unishield360-domain",
     "status": "up",
-    "uptime": "96.16%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "96.16%",
+    "uptime": "97.05%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.05%",
     "time": 3884,
     "timeDay": 4211,
     "timeWeek": 3884,
     "timeMonth": 3884,
     "timeYear": 3884,
     "dailyMinutesDown": {
-      "2026-01-07": 67
+      "2026-01-07": 55
     }
   },
   {
@@ -685,7 +693,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 343
     }
   },
@@ -744,7 +753,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 342
     }
   },
@@ -765,7 +775,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 342
     }
   },
@@ -786,7 +797,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 342
     }
   },
@@ -807,7 +819,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 341
     }
   },
@@ -828,7 +841,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1397,
+      "2026-01-08": 85,
+      "2026-01-07": 1440,
       "2026-01-06": 341
     }
   },
