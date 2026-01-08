@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 344
     }
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 344
     }
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 344
     }
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 344
     }
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 343
     }
@@ -288,7 +288,7 @@
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 343
     }
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 621,
       "2026-01-07": 1440,
       "2026-01-06": 343
     }
@@ -320,19 +320,19 @@
     "url": "https://careers.onextel.com",
     "icon": "https://icons.duckduckgo.com/ip3/careers.onextel.com.ico",
     "slug": "29-one-xtel-careers",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "97.55%",
     "time": 1337,
-    "timeDay": 1487,
+    "timeDay": 1422,
     "timeWeek": 1337,
     "timeMonth": 1337,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2026-01-08": 10,
+      "2026-01-08": 3,
       "2026-01-07": 56
     }
   },
@@ -371,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 343
     }
@@ -381,19 +381,19 @@
     "url": "https://docs.onextel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.onextel.com.ico",
     "slug": "33-one-xtel-docs",
-    "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "95.49%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "status": "down",
+    "uptime": "97.59%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 2170,
-    "timeDay": 2480,
+    "timeDay": 2418,
     "timeWeek": 2170,
     "timeMonth": 2170,
     "timeYear": 2170,
     "dailyMinutesDown": {
-      "2026-01-08": 10,
+      "2026-01-08": 2,
       "2026-01-07": 55
     }
   },
@@ -403,11 +403,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jlmorison.com.ico",
     "slug": "121-jl-morison",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.35%",
-    "uptimeMonth": "15.66%",
-    "uptimeYear": "2.17%",
+    "uptimeWeek": "78.95%",
+    "uptimeMonth": "16.26%",
+    "uptimeYear": "2.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -663,19 +663,19 @@
     "url": "https://www.unishield360.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.unishield360.com.ico",
     "slug": "141-unishield360-domain",
-    "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
     "time": 3917,
-    "timeDay": 4179,
+    "timeDay": 4122,
     "timeWeek": 3917,
     "timeMonth": 3917,
     "timeYear": 3917,
     "dailyMinutesDown": {
-      "2026-01-08": 9,
+      "2026-01-08": 2,
       "2026-01-07": 55
     }
   },
@@ -696,7 +696,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 343
     }
@@ -756,7 +756,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 342
     }
@@ -778,7 +778,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 342
     }
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 342
     }
@@ -822,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 341
     }
@@ -833,18 +833,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.cicon.net.ico",
     "slug": "156-cicon-mail",
     "status": "down",
-    "uptime": "0.01%",
+    "uptime": "0.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 359,
+      "2026-01-08": 622,
       "2026-01-07": 1440,
       "2026-01-06": 341
     }
