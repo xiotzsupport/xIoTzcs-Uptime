@@ -23,10 +23,6 @@ sites:
   - name: 14_Dovetail-Eprotector
     url: https://eprotector.dovetailindia.com
 
- #Vignesh to Revist - IP Whitelist
-  - name: 15_Dovetail-NAV
-    url: https://nav.dovetailindia.com/
-
 #  - name: 16_Dovetail-NAVDEV
 #    url: http://navdev.dovetailindia.com
 
