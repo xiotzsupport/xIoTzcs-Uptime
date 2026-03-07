@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -269,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -349,7 +349,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -509,7 +509,7 @@
     "timeMonth": 931,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -589,7 +589,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -657,19 +657,19 @@
     "url": "https://careers.onextel.com",
     "icon": "https://icons.duckduckgo.com/ip3/careers.onextel.com.ico",
     "slug": "29-one-xtel-careers",
-    "status": "up",
-    "uptime": "94.18%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "94.18%",
+    "status": "down",
+    "uptime": "94.27%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "94.27%",
     "time": 1457,
     "timeDay": 1161,
-    "timeWeek": 1367,
+    "timeWeek": 1355,
     "timeMonth": 1536,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2026-03-07": 103,
+      "2026-03-07": 106,
       "2026-03-06": 46,
       "2026-03-05": 282,
       "2026-03-04": 210,
@@ -703,8 +703,7 @@
       "2026-02-03": 86,
       "2026-02-02": 95,
       "2026-02-01": 144,
-      "2026-01-31": 17,
-      "2026-01-30": 82
+      "2026-01-31": 17
     }
   },
   {
@@ -742,7 +741,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -810,19 +809,19 @@
     "url": "https://docs.onextel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.onextel.com.ico",
     "slug": "33-one-xtel-docs",
-    "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "94.28%",
+    "status": "down",
+    "uptime": "94.37%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "91.62%",
+    "uptimeMonth": "90.90%",
+    "uptimeYear": "94.37%",
     "time": 2421,
     "timeDay": 1667,
-    "timeWeek": 1979,
+    "timeWeek": 1966,
     "timeMonth": 2752,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2026-03-07": 100,
+      "2026-03-07": 103,
       "2026-03-06": 45,
       "2026-03-05": 279,
       "2026-03-04": 209,
@@ -856,8 +855,7 @@
       "2026-02-03": 85,
       "2026-02-02": 93,
       "2026-02-01": 141,
-      "2026-01-31": 17,
-      "2026-01-30": 82
+      "2026-01-31": 17
     }
   },
   {
@@ -866,11 +864,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jlmorison.com.ico",
     "slug": "121-jl-morison",
     "status": "down",
-    "uptime": "20.92%",
+    "uptime": "20.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.92%",
+    "uptimeYear": "20.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1126,19 +1124,19 @@
     "url": "https://www.unishield360.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.unishield360.com.ico",
     "slug": "141-unishield360-domain",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "91.68%",
+    "status": "down",
+    "uptime": "94.26%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "91.65%",
     "uptimeMonth": "90.69%",
-    "uptimeYear": "94.22%",
+    "uptimeYear": "94.26%",
     "time": 4537,
     "timeDay": 4755,
-    "timeWeek": 4715,
+    "timeWeek": 4687,
     "timeMonth": 4918,
     "timeYear": 4537,
     "dailyMinutesDown": {
-      "2026-03-07": 100,
+      "2026-03-07": 102,
       "2026-03-06": 45,
       "2026-03-05": 279,
       "2026-03-04": 207,
@@ -1173,7 +1171,7 @@
       "2026-02-02": 32,
       "2026-02-01": 71,
       "2026-01-31": 37,
-      "2026-01-30": 149
+      "2026-01-30": 119
     }
   },
   {
@@ -1193,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1311,7 +1309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1391,7 +1389,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1471,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1551,7 +1549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1631,7 +1629,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 946,
+      "2026-03-07": 979,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
